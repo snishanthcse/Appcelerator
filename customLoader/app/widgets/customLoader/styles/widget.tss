@@ -1,0 +1,8 @@
+"#loading": {
+	images: [
+		"/images/customLoader/loading1.png", "/images/customLoader/loading1.png",
+        "/images/customLoader/loading2.png", "/images/customLoader/loading3.png",
+        "/images/customLoader/loading4.png", "/images/customLoader/loading5.png",
+        "/images/customLoader/loading6.png", "/images/customLoader/loading7.png"
+	]
+}

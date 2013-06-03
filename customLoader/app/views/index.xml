@@ -1,0 +1,10 @@
+<Alloy>
+	<Window class="container" >
+		<View id="loaderView"layout="vertical">
+			<Label>Click bellow button to start the loading</Label>
+			<Button id="button" onClick="doClick" title="Click Here"
+			top="10" width="150" height="50" />
+		</View>
+		<Require id="loading" type="widget" src="customLoader"/>
+	</Window>
+</Alloy>
